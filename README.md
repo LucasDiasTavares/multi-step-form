@@ -3,7 +3,7 @@
 Pequeno projeto, utilizando apenas o básico do ReactJS para codificar os steps do formulário.
 
 Prévia online:
-- [Veja_online](https://lucasdiastavares.com.br)
+- [Veja_online](https://lucastavares-react-multstepform.netlify.com)
 
 ==============================================
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
